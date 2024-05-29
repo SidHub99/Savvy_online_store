@@ -1,0 +1,16 @@
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 60px;
+    box-shadow: 0 1px 3px -2px #000;
+    margin-bottom:1px ;
+    background-color: white;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
+.plogo{
+width: 75px;
+}

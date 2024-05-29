@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Admin"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../FrontEnd"
+		}
+	],
+	"settings": {}
+}
